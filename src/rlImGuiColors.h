@@ -30,8 +30,8 @@
 
 #pragma once
 
-#include "raylib.h"
-#include "imgui.h"
+#include <raylib.h>
+#include <imgui.h>
 
 namespace rlImGuiColors
 {

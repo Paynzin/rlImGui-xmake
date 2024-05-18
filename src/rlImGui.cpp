@@ -31,8 +31,8 @@
 
 #include "imgui_impl_raylib.h"
 
-#include "raylib.h"
-#include "rlgl.h"
+#include <raylib.h>
+#include <rlgl.h>
 
 #include <math.h>
 #include <map>
